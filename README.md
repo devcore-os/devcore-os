@@ -1,8 +1,6 @@
-# devcore-os
-A developer-first Linux OS with everything pre-installed. Built for builders.
 # >_ DevCore OS
 
-**The developer-first Linux OS. Built for builders.**
+**The developer-first  OS. Built for builders.**
 
 DevCore OS is a custom Linux distribution based on Ubuntu 24.04 LTS, 
 pre-loaded with everything a developer needs — right out of the box. 
